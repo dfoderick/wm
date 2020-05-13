@@ -1,0 +1,2 @@
+# wm
+web monetization testing
